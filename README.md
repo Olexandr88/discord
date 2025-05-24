@@ -21,7 +21,7 @@ Welcome to the `discord` repository! This is a space where members of our Discor
 
 ## Resources
 - [Discord Server Link](https://www.ethereumclassic.org/discord)
-- [Contribution Guidelines](https://github.com/ethereumclassic/discord/pulls)
+- [Contribution Guidelines](https://github.com/ethereumclassic/discord/blob/main/README.md#guidelines)
 - [Code of Conduct](https://github.com/ethereumclassic/discord/blob/main/code-of-conduct.md)
 
 We value your input and look forward to your contributions!
